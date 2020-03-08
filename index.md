@@ -1,6 +1,14 @@
-## Hi, This is 7sept
+## Hi, This is 七sept
 
 Here is my [douban](https://www.douban.com/people/61599793/) 
+
+争取每天都过的积极而充实。
+
+2020年3月7日 买好了域名。
+2020年3月8日 将github pages和域名关联了起来。
+
+
+----------------------------------------------------------------------------
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
