@@ -92,14 +92,34 @@ body{
 	margin-top: 40px;
 }
 
+#about{
+	float: left;
+	width: 65%;
+	text-align: left;
+}
+
+#booklist{
+	float: right;
+	width: 30%;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
+
+
 @media(max-width: 600px){
-	#main{
-		width: 100px;
+     #main,#sidebar,#booklist{
+		width: 100%;
 		float: none;
+		text-align: center;
 	}
-	#sidebar{
-		width: 100px;
+
+	#about{
+		width: 100%;
 		float: none;
-	}
+		text-align: left;
+}
+	
 }
 
